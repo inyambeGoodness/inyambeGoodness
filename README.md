@@ -1,7 +1,5 @@
 # Hello there; welcome 👋🏾
 
-# Hi there, I'm [Your Name] 👋
-
 > Frontend Developer · JavaScript · React · TypeScript · AI Automation · Turning ideas into polished interfaces. Lifelong learner and technical writing enthusiast.
 
 ---
